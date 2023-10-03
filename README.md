@@ -1,2 +1,2 @@
-# desafio_bootcamp_santander_2023_relatorio_de_vendas_elegante
-Desafio Bootcamp Santander 2023 rerlatório de vendas elegante
+# desafio_bootcamp_santander_2023_ciência_de_dados_relatorio_de_vendas_elegante
+Desafio Bootcamp Santander 2023 ciência de dados relatório de vendas elegante
